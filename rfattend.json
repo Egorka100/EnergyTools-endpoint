@@ -1,9 +1,9 @@
 {
   "app": "RF-Attend",
   "schema": 1,
-  "sequence": 2026112501,
-  "version": "2026.11.25.1",
-  "url": "http://109.122.197.169/rfattend-updates/RFAttend-2026.11.25.1-Windows-x64.zip",
-  "size": 62111660,
-  "sha256": "ccdbb69d8396563aa6f22f9ca99a04562b39864ddfc8a768b9b55d0ac8a4f546"
+  "sequence": 2026112601,
+  "version": "2026.11.26.1",
+  "url": "http://109.122.197.169/rfattend-updates/RFAttend-2026.11.26.1-Windows-x64.zip",
+  "size": 62111800,
+  "sha256": "dd302f3739c7d258b4772be614ff562056def9c6b0e6d2ff31e8d54f66f907cb"
 }
